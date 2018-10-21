@@ -5,5 +5,5 @@
 -[x] changing background colors
 -[x] button to toggle and hide multiple choice answer boxes
 
-<img src="https://imgur.com/a/I1MoQfy"/>
+![Imgur Image](https://imgur.com/a/I1MoQfy.gif)
 https://imgur.com/a/I1MoQfy
